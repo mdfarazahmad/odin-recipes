@@ -1,1 +1,2 @@
 # odin-recipes
+I am learning about Full Stack Development. First I started with HTML, in HTML I learnt how to create link, how to put image on web browser, how to commit. At last I am trying to complete this project.
